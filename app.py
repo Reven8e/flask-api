@@ -1,3 +1,5 @@
+# © Flask api- Made by Yuval Simon. For bogan.cool
+
 from flask import Flask, request, session, render_template, send_file, flash, redirect, url_for, json, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from io import BytesIO
